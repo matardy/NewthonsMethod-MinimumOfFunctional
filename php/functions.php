@@ -234,7 +234,7 @@ function convertToNegative(&$F):void{
 
 $abecedario = ["a", "b", "c", "d"];
 $variables = variablesParciales($fun,$abecedario);
-
+echo "Probando git"; 
 echo "Estimativa dada por el usuario: " ; 
 echo "<br/>";
 showVector($estimativa); 
